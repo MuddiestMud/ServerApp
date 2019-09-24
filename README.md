@@ -1,1 +1,1 @@
-# ServerApp
+# DjangoServer
